@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+안녕하세요 반갑습니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+이 Github Page 는 MEAN stack 을 사용하면서 겪는 에러나 알게 된 점을 포스팅 하려 합니다.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+스스로 공부한 내용을 정리하고자 하오니 오류가 있으면 짚어주시면 감사하겠습니다.
 
+(댓글 서비스는 힘 닿는데로 업그레이드 하겠습니다.)
 
-[jekyll-organization]: https://github.com/jekyll
+공부하면서 배우는 것들을 틈틈히 업데이트해 나가도록 하겠습니다.
+
+공부한 것을 잘 잊어 버리는 제 자신에게 도움을 주고자 블로그를 만들게 됐습니다만
+
+저와 같은 입장에서 공부하시는 분들에게도 작은 도움이 되었으면 좋겠습니다.

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dublincity.github.io/sitemap.xml

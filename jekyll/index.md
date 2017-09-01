@@ -2,6 +2,7 @@
 layout: page
 title: Jekyll
 permalink: /jekyll/
+order: 3
 ---
 
 <div class="home">

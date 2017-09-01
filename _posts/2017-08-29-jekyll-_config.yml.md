@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "_comfig.yml 은 build시에만 1번 로딩한다"
+title:  "_config.yml 은 build시에만 1번 로딩한다"
 date:   2017-08-28 17:19:52 +0900
 categories: jekyll update
 ---

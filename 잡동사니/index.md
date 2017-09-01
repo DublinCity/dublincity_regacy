@@ -1,14 +1,14 @@
 ---
 layout: page
-title: MongoDB
-permalink: /mongodb/
-order: 2
+title: 잡동사니
+permalink: /etc/
+order: 4
 ---
 
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.categories.mongodb %}
+    {% for post in site.categories.etc %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>

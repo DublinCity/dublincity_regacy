@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+order: 5
 ---
 
-안녕하세요 반갑습니다.
+안녕하세요 반갑습니다..
 
 이 Github Page 는 MEAN stack 을 사용하면서 겪는 에러나 알게 된 점을 포스팅 하려 합니다.
 

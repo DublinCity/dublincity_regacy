@@ -2,6 +2,7 @@
 layout: page
 title: Express
 permalink: /express/
+order: 1
 ---
 
 <div class="home">
